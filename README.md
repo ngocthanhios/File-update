@@ -23,4 +23,5 @@ void loop() {
   digitalWrite(LED_PIN, LOW);
   Serial.println("Cong VIA: Xuat tin hieu THAP (LOW)");
   delay(1000);
+
 }
